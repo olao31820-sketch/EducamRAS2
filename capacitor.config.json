@@ -1,8 +1,8 @@
- {
+{
   "appId": "com.educam.ras",
   "appName": "Educam RAS",
-  "webDir": ".",
+  "webDir": "www",
   "server": {
     "androidScheme": "https"
   }
- }
+}
